@@ -17,25 +17,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=waltersaturno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waltersaturno&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🔥 Streak de contribuciones
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=waltersaturno&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 🛠️ Tecnologías & Herramientas
 <div align="center">
 
