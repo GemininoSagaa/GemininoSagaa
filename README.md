@@ -1,12 +1,20 @@
-<!-- Encabezado con estilo -->
-<h1 align="center"> Walter Saturno</h1>
-<h3 align="center">Programador Informático Junior</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Walter%20Saturn&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<h3 align="center">💻 Programador Informático Junior | 🚀 Fundador de Saturn Celestium Group</h3>
 
 ---
 
 ### 🧑‍🚀 Sobre mí
 - 💻 Desarrollador con experiencia en **Svelte (sin TS), PHP (backend) y Vite (frontend)**  
+- 🌍 Fundador del holding **Saturn Celestium Group**  
+   - 🌟 **Valter Saturn** → moda y lujo absoluto  
+   - 🎩 **Castor & Pollux** → lujo formal y clásico  
+   - 🪐 **Satur-no** → urbano y experimental  
 - 🎮 Gamer apasionado (últimamente **God of War 2018**)  
+- 🚴 Ciclista en progreso, soñando con llegar al nivel profesional 🏔️  
 - ✨ Me encanta crear proyectos que combinen **tecnología, moda y deporte**.  
 
 ---
@@ -14,6 +22,24 @@
 ### 📧 Contáctame
 - 📩 **walter.cruz.saturno@gmail.com**  
 - 🌐 [Mi web personal](https://waltersaturno.shop)  
+
+<p align="center">
+  <a href="https://github.com/GemininoSagaa">
+    <img src="https://img.shields.io/github/followers/GemininoSagaa?label=Follow&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GemininoSagaa&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GemininoSagaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GemininoSagaa&layout=compact&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=GemininoSagaa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -33,11 +59,19 @@
 ---
 
 ### 🚀 Proyectos Destacados
-- [🌐 E-commerce Demo](https://github.com/waltersaturno/ecommerce)  
-- [🪐 Saturn Celestium Group - Branding](https://waltersaturno.shop)  
-- [🚴 Tour de los Volcanes CR](https://github.com/waltersaturno/tour-volcanes)  
+<div align="center">
+
+🔗 [🌐 E-commerce Demo](https://github.com/waltersaturno/ecommerce)  
+🔗 [🪐 Saturn Celestium Group - Branding](https://waltersaturno.shop)  
+🔗 [🚴 Tour de los Volcanes CR](https://github.com/waltersaturno/tour-volcanes)  
+
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
 
 <div align="center">
   
