@@ -1,20 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Walter%20Saturn&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Walter%20Saturno&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<h3 align="center">💻 Programador Informático Junior | 🚀 Fundador de Saturn Celestium Group</h3>
+<h3 align="center">💻 Programador Informático Junior</h3>
 
 ---
 
 ### 🧑‍🚀 Sobre mí
 - 💻 Desarrollador con experiencia en **Svelte (sin TS), PHP (backend) y Vite (frontend)**  
-- 🌍 Fundador del holding **Saturn Celestium Group**  
-   - 🌟 **Valter Saturn** → moda y lujo absoluto  
-   - 🎩 **Castor & Pollux** → lujo formal y clásico  
-   - 🪐 **Satur-no** → urbano y experimental  
 - 🎮 Gamer apasionado (últimamente **God of War 2018**)  
-- 🚴 Ciclista en progreso, soñando con llegar al nivel profesional 🏔️  
+- 🚴 Ciclista en progreso. 🏔️  
 - ✨ Me encanta crear proyectos que combinen **tecnología, moda y deporte**.  
 
 ---
@@ -35,9 +31,14 @@
 ### 📊 Estadísticas de GitHub
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GemininoSagaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GemininoSagaa&layout=compact&theme=tokyonight&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=GemininoSagaa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GemininoSagaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemininoSagaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff" height="165px"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=GemininoSagaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
+</p>
 
 </div>
 
