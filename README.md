@@ -1,17 +1,12 @@
 <!-- Encabezado con estilo -->
-<h1 align="center">🌌 Walter Saturn 🚀</h1>
-<h3 align="center">Programador Informático Junior | Fundador de <b>Saturn Celestium Group</b></h3>
+<h1 align="center"> Walter Saturno</h1>
+<h3 align="center">Programador Informático Junior</h3>
 
 ---
 
 ### 🧑‍🚀 Sobre mí
 - 💻 Desarrollador con experiencia en **Svelte (sin TS), PHP (backend) y Vite (frontend)**  
-- 🌍 Fundador del holding **Saturn Celestium Group**  
-   - 🌟 **Valter Saturn** → moda y lujo absoluto  
-   - 🎩 **Castor & Pollux** → lujo formal y clásico  
-   - 🪐 **Satur-no** → urbano y experimental  
 - 🎮 Gamer apasionado (últimamente **God of War 2018**)  
-- 🚴 Ciclista en progreso, soñando con llegar al nivel profesional 🏔️  
 - ✨ Me encanta crear proyectos que combinen **tecnología, moda y deporte**.  
 
 ---
